@@ -105,7 +105,7 @@ Clicking on **File / New / Project** will bring up the New Project Wizard.
 
 ![Create new project](images/create_new_project_wizard.png "Create new project")
 
-*Choose a name and then click **OK**
+_Choose a name and then click **OK**_
 
 This will build out the folder structure and files, and a starting point for the particular project type. Once finished, it should take you to the **Solution Explorer**, and open the starting code page.
 
